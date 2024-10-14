@@ -10,3 +10,4 @@ Collection of best practices
 - [💉Healthcare](./playbooks/healthcare.pdf)
 - [🧲 Lead Gen](./playbooks/leadgen.pdf)
 - [📰 News and content](./playbooks/news.pdf)
+- [Tech B2B](./playbooks/tech-b2b.pdf)
